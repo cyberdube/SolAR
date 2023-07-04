@@ -25,16 +25,8 @@ Things we have done in making this projects are:-
 
 
 <img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
-<img src = "1.png" width = "550" height = "400">
+<img src = "2.png" width = "550" height = "400">
+
 
 
 
