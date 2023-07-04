@@ -32,7 +32,7 @@ Things we have done in making this projects are:-
 
 ## Demo Video : 
 
-<img src = "abc.gif" width = "400" height = "700">
+<img src = "abcd.gif" width = "400" height = "700">
 
 
 
