@@ -40,7 +40,7 @@ Things we have done in making this projects are:-
 
 ## Demo Video : 
 
-<img src = "abc.gif" width = "700" height = "400">
+<img src = "abc.gif" width = "400" height = "700">
 
 
 
